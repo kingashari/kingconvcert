@@ -1,4 +1,4 @@
-# kingconvcert
+# kingconvert
 This version does not require Python and FFmpeg because they are already included in the package.
 
 Download>Extract>Run
